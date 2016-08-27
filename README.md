@@ -1,5 +1,7 @@
 # Demographics-Prejudice-Status
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/demographics-prejudice-status)
+
 This notebook examines data from the study 2016 "Answering Unresolved Questions About the Relationship Between Cognitive Ability and Prejudice"
 (http://spp.sagepub.com/content/early/2016/07/27/1948550616660592.abstract).
 
