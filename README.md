@@ -1,4 +1,4 @@
-# Exploring the Demographics of Social Status
+# Exploring the Demographics of Social Status and Prejudice
 
 ## Exploratory Data Analysis
 This notebook explores survey data on attitudes towards various social groups from a recent research paper (more below).
