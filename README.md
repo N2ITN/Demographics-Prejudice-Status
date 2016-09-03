@@ -4,7 +4,7 @@
 This notebook explores survey data on attitudes towards various social groups from a recent study (more below).
 These data are explored with Python libraries including pandas, SQL, seaborn, and sklearn, and plotly. 
 
-The code and visualizations are both user editable and executable accessible through this clicking this button [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/demographics-prejudice-status)
+The code and visualizations are both user editable and executable accessible in any browser by this clicking this button: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/demographics-prejudice-status)
 
 
 
