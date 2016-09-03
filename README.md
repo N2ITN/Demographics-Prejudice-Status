@@ -1,10 +1,19 @@
 # Demographics-Prejudice-Status
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/demographics-prejudice-status)
+## Exploratory Data Analysis
+This notebook explores survey data on attitudes towards various social groups from a recent study (more below).
+These data are explored with Python libraries including pandas, SQL, seaborn, and sklearn, and plotly. 
 
-This notebook examines data from the study 2016 "Answering Unresolved Questions About the Relationship Between Cognitive Ability and Prejudice"
+The code and visualizations are both user editable and executable accessible through this clicking this button [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/demographics-prejudice-status)
+
+
+## The Data
+The data source for this analysis is the 2016 study "Answering Unresolved Questions About the Relationship Between Cognitive Ability and Prejudice"
 (http://spp.sagepub.com/content/early/2016/07/27/1948550616660592.abstract).
 
-The study aims to better understand patterns of prejudice relating to verbal test scores, but also yields interesting survey-based rankings of social groups in relation to their status, choice of membership, conservatism and ideology.
+### Summary of the paper
+In order to examine patterns of prejudice relating to verbal test scores, the researchers collected survey-based rankings of participant attitudes towards certain social groups. Each participant's negative prejudices were compared to the target group's level of choice in membership, and to the participant's verbal score (intended a proxy for cognitive abiltiy). 
 
-Thought the research offers some interesting conclusions of its own, this notebook examines the collected social ranking data using pandas, SQL, seaborn, and sklearn, and is accessible through mybinder.org
+The study found that regardless of cognitive ability, all participants harbored prejudices towards other social groups. However, higher scoring individuals were more prejucided towards groups with higher degree of choice in membership, while low-scorers were biased against those with relatively low choice in membership.
+
+
