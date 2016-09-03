@@ -1,4 +1,4 @@
-# Exploring the Demographics of Social Status and Prejudice
+# Exploring the Demographics of Social Status
 
 This notebook explores survey data on attitudes towards various social groups from a recent research paper ["Answering Unresolved Questions About the Relationship Between Cognitive Ability and Prejudice"]
 (http://spp.sagepub.com/content/early/2016/07/27/1948550616660592.abstract). A summary of the research can be found below.
