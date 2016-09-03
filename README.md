@@ -1,11 +1,16 @@
 # Demographics-Prejudice-Status
 
 ## Exploratory Data Analysis
-This notebook explores survey data on attitudes towards various social groups from a recent study (more below).
-These data are explored with Python libraries including pandas, SQL, seaborn, and sklearn, and plotly. 
+This notebook explores survey data on attitudes towards various social groups from a recent research paper (more below).
+Reading the paper sparked my curiousity on patterns might be found within these groups, as seen through their perception in the eyes of the participants. Were there cluster to be found, and more qualitatively, could the data be visualized in a way that would convey the landscape of prejudice more fluently than a table by increasing mental bandwidth and paralellism?
+
+The journey towards resolving these questions utilizes various tools and techniques including data cleaning, normalization, subquerying, multidimensional plotting with 3d visualization, dimensionality reduction techniques (t-SNE, PCA, LDA), and more. 
+
+Python libraries used include pandas, SQL, seaborn, and sklearn, and plotly. 
+
+Hopefully this exploration serves to stimulate learning and insight for other data creatives as it has for me.
 
 The code and visualizations are both user editable and executable accessible in any browser by this clicking this button: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/demographics-prejudice-status)
-
 
 
 
