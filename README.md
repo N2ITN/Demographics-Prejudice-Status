@@ -1,9 +1,12 @@
 # Exploring the Demographics of Social Status and Prejudice
 
-## Exploratory Data Analysis
 This notebook explores survey data on attitudes towards various social groups from a recent research paper (more below).
-Reading the paper sparked my curiousity on patterns might be found within these groups, as seen through their perception in the eyes of the participants. Were there cluster to be found, and more qualitatively, could the data be visualized in a way that would convey the landscape of prejudice more fluently than a table by increasing mental bandwidth and paralellism?
 
+## Exploratory Data Analysis
+
+### Questions and Hypotheses
+Reading this paper sparked my curiousity on patterns might be found within these groups, as seen through their perception in the eyes of the participants. Were there cluster to be found, and more qualitatively, could the data be visualized in a way that would convey the landscape of prejudice more fluently than a table by increasing mental bandwidth and paralellism?
+### Approach
 The journey towards resolving these questions utilizes various tools and techniques including data cleaning, normalization, subquerying, multidimensional plotting with 3d visualization, dimensionality reduction techniques (t-SNE, PCA, LDA), and more. 
 
 Python libraries used include pandas, SQL, seaborn, and sklearn, and plotly. 
